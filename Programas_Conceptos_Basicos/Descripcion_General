@@ -1,0 +1,5 @@
+En esta carpeta se encuentran los programas respecto a los conceptos básicos explicados en el curso de Cómputo Cuántico (PhD(c). Brian García Sarmina), https://www.youtube.com/playlist?list=PLCxr-YsCF-ZXCgEUxmNTZdRSIlG9GmSm8 , los programas fueron desarrollados usando Colab,
+por lo que son compatibles con jupyter notebooks.
+
+Nota: Segun las versiones de las bibliotecas vayan avanzando, puede que algunas funciones/metodos cambien de nombre o sean modificados/deprecados.
+Fecha: Oct/2024.
